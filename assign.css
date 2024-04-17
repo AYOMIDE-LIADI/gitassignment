@@ -19,7 +19,8 @@
     color: white;
 }
 .control{
-    background-color:rgb(207, 153, 153)
+    background-color:rgb(207, 153, 153);
+    height: 350px;
 }
 .ours{
     font-size: 50px;
@@ -31,4 +32,19 @@
 }
 .image{
     size-adjust: 4000px;
+}
+.love{
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 90px;
+}
+.first_grid{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(179, 168, 168);
+    height: 250px;
+}
+.bin{
+    padding-top: 100px;
 }

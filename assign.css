@@ -18,3 +18,17 @@
 .bar{
     color: white;
 }
+.control{
+    background-color:rgb(207, 153, 153)
+}
+.ours{
+    font-size: 50px;
+    text-align: center;
+    height: 300px;
+    color: white;
+    padding-top: 70px;
+    font-style:inherit;
+}
+.image{
+    size-adjust: 4000px;
+}
